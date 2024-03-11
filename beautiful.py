@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Beauty:
 
     def __init__(self, name):
