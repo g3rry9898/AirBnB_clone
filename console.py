@@ -8,7 +8,7 @@ class HBNBCommand(cmd.Cmd):
         return True
     def do_quit(self, line):
         """quiting the console"""
-        print("exiting prompt")
+
         return True
 
 if __name__ == '__main__':
