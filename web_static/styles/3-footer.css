@@ -1,7 +1,8 @@
 footer {
-    background-color: #0000FF;
+    background-color: white;
     height: 60px;
     width: 100%;
+    border-top: 1px solid #CCCCCC;
     position: fixed;
     bottom: 0;
     display: flex;
@@ -11,5 +12,6 @@ footer {
 
 footer p {
     margin: 0;
+    color: white;
 }
 
